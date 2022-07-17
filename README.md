@@ -44,3 +44,7 @@ Then a Pipeline is created with
 - [x] MultinomialNB
 
 Pipeline is trained using training data and then classification report and confusion matrix is calculated for the same.
+
+# Results 
+The pipeline predited the message as spam or ham with an accuracy of 96%
+![Results](https://github.com/thechirag2002/Statistical-NLP-spam-detect/blob/a44a3a054f1549955751d74e6f9f5e079cc96e0c/result.png)
