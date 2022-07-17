@@ -7,4 +7,4 @@ This Natural language Toolkit is a wide platform for building python programs th
 > Using nltk we stop words is downloaded with the help of which you don't have to define every word manually infact Stop words are frequently used words that carry very little meaning. Stop words are words that are so common they are basically ignored by typical tokenizers.
 
 After importing dataset it is observed that length of the sentences has a maximum frequency in a particular range as shown 
-[Image](https://github.com/thechirag2002/Statistical-NLP-spam-detect/blob/main/words-length.png)
+[Image](words-length.png)
